@@ -1,0 +1,1 @@
+<h1>Thùng rác sản phẩm</h1>
